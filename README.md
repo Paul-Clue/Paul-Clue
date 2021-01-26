@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <hr>
-<p align="center"><i><strong>"All our dreams can come true, if we have the courage to pursue them."</strong></i></p>
+<p align="center"><i><strong> ⚡ I am proficient in the following programming languages and technologies:</strong></i></p>
 <br/>
 
 
