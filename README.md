@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-darkblue?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-Java-darkblue?style=flat-square&logo=java)
 
 <hr>
 <p align="center"><i><strong>"All our dreams can come true, if we have the courage to pursue them."</strong></i></p>
