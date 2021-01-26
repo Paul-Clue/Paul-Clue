@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 ### Welcome to my GitHub profile. My profile is always a work in progress 👨‍💻 (as it should be). Check it out from time to time to see how I'm growing as a developer.
 I started on this path learning HTML and CSS. I then moved on to learning JavaScript. At the same time I was learning JavaScript, I started studying Java. I found learning Java challenging but fun. The language felt so formal. It felt like a programming language for smart people. Languages like JavaScript make it easy to write slick algorithms. However, one must be a bit clever in order to write slick algorithms in Java. 
 
