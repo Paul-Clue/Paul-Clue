@@ -24,6 +24,10 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-darkblue?style=flat-square&logo=react)
 
+<hr>
+<p align="center"><i><strong>"All our dreams can come true, if we have the courage to pursue them."</strong></i></p>
+<br/>
+
 - 🔭 I’m currently working on an android app.
 - 🌱 I’m currently learning app development.
 - 👯 I’m looking to collaborate on a fun gaming app.
