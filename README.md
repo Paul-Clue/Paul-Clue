@@ -9,7 +9,7 @@
 
 <hr>
 <br/>
-<p align="center"><i><strong> ⚡ I am proficient in the following programming languages and technologies:</strong></i></p>
+<p align="center"><i><strong> ⚡ I am proficient in the following programming languages and technologies ⚡:</strong></i></p>
 <br/>
 <br/>
 
