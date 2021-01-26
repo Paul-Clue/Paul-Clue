@@ -4,7 +4,7 @@ I started on this path learning HTML and CSS. I then moved on to learning JavaSc
 
 <hr>
  <h3 align="center">
- ![](me.png)
+ ![](https://github.com//Paul-Clue/Paul-Clue/edit/main/me.png?raw=true)
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Paul-Clue&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
   
