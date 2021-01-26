@@ -3,7 +3,7 @@
 I started on this path learning HTML and CSS. I then moved on to learning JavaScript. At the same time I was learning JavaScript, I started studying Java. I found learning Java challenging but fun. The language felt so formal. It felt like a programming language for smart people. Languages like JavaScript make it easy to write slick algorithms. However, one must be a bit clever in order to write a really slick algorithm in Java. 
 
 <hr>
- ![me](me.png)
+<img align="left" alt="me" width="52px" src="Paul-Clue/Paul-Clue/edit/main/me.png" />
  <h3 align="center">
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Paul-Clue&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
