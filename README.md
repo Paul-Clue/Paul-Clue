@@ -41,8 +41,8 @@ I started on this path learning HTML and CSS. I then moved on to learning JavaSc
 - 👯 I’m looking to collaborate on a fun gaming app.
 - 💻 I'm a student at **[Microverse](https://microverse.com)**
 - 👨‍💻 I'm studying Ruby.
-- 🤔 I’m looking for help with visualizing the world through the eyes of a gen-z-er. Accomplishing that would allow me to see onto the future.
-- 💬 Ask me about how to make Jamaican style oxtail.
+- 🤩 I’m looking for help with visualizing the world through the eyes of a gen-z-er. Accomplishing that would allow me to see onto the future.🤑
+- 💬 Ask me about how to make Jamaican style oxtail.:jamaica:
 - ⚡ Fun fact: I found out how to get infinite lives in the first Super Mario Bros. game by accident when I was seven-years-old.
 
 
