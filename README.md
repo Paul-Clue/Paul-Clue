@@ -19,7 +19,7 @@ I started on this path learning HTML and CSS. I then moved on to learning JavaSc
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="Ruby">
+<!--<img align="left" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="Ruby">-->
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -39,6 +39,8 @@ I started on this path learning HTML and CSS. I then moved on to learning JavaSc
 - 🔭 I’m currently working on an android app.
 - 🌱 I’m currently learning app development.
 - 👯 I’m looking to collaborate on a fun gaming app.
+- 💻 Studying at **[Microverse](https://microverse.com)**
+- 👨‍💻 I am studying Ruby.
 - 🤔 I’m looking for help with visualizing the world through the eyes of a gen-z-er. Accomplishing that would allow me to see onto the future.
 - 💬 Ask me about how to make Jamaican style oxtail.
 - ⚡ Fun fact: I found out how to get infinite lives in the first Super Mario Bros. game by accident when I was seven-years-old.
