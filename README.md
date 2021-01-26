@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<br/>
 <hr>
 <p align="center"><i><strong> ⚡ I am proficient in the following programming languages and technologies:</strong></i></p>
 <br/>
@@ -23,6 +24,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-Java-darkblue?style=flat-square&logo=java)
 
+<br/>
 <hr>
 <p align="center"><i><strong>🟢Wondering what a cool guy like me is spending my time on these days?🟢</strong></i></p>
 <br/>
