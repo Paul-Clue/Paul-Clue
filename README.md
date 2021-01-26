@@ -3,6 +3,7 @@
 <hr>
 <p align="center"><i><strong> ⚡ I am proficient in the following programming languages and technologies:</strong></i></p>
 <br/>
+<br/>
 
 
   
@@ -24,6 +25,7 @@
 
 <hr>
 <p align="center"><i><strong>🟢Wondering what a cool guy like me is spending my time on these days?🟢</strong></i></p>
+<br/>
 <br/>
 
 - 🔭 I’m currently working on an android app.
