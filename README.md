@@ -23,7 +23,7 @@
 ![Java](https://img.shields.io/badge/-Java-darkblue?style=flat-square&logo=java)
 
 <hr>
-<p align="center"><i><strong>Wondering what a cool guy like me is doing these days?</strong></i></p>
+<p align="center"><i><strong>🟢Wondering what a cool guy like me is spending my time on these days?🟢</strong></i></p>
 <br/>
 
 - 🔭 I’m currently working on an android app.
