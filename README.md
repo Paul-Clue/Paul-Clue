@@ -1,4 +1,4 @@
-# Hi there 👋 <img align="right" alt="me" width="52px" src="./me.png" />
+# Hi there 👋 
 ### Welcome to my GitHub profile. My profile is always a work in progress 👨‍💻 (as it should be). Check it out from time to time to see how I'm growing as a developer.
 I started on this path learning HTML and CSS. I then moved on to learning JavaScript. At the same time I was learning JavaScript, I started studying Java. I found learning Java challenging but fun. The language felt so formal. It felt like a programming language for smart people. Languages like JavaScript make it easy to write slick algorithms. However, one must be a bit clever in order to write a really slick algorithm in Java. 
 
@@ -39,7 +39,7 @@ I started on this path learning HTML and CSS. I then moved on to learning JavaSc
 - 🔭 I’m currently working on an android app.
 - 🌱 I’m currently learning app development.
 - 👯 I’m looking to collaborate on a fun gaming app.
-- 💻 I'm a student at **[Microverse](https://microverse.com)**
+- 💻 I'm a student at **[Microverse](https://microverse.com)**  <img align="right" alt="me" width="100px" src="./me.png" />
 - 👨‍💻 I'm studying Ruby.
 - 🤩 I’m looking for help with visualizing the world through the eyes of a gen-z-er. Accomplishing that would allow me to see onto the future.🤑
 - 💬 Ask me about how to make Jamaican style oxtail.
