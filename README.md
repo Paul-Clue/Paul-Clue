@@ -23,7 +23,7 @@
 ![Java](https://img.shields.io/badge/-Java-darkblue?style=flat-square&logo=java)
 
 <hr>
-<p align="center"><i><strong>"All our dreams can come true, if we have the courage to pursue them."</strong></i></p>
+<p align="center"><i><strong>Wondering what a cool guy like me is doing these days?</strong></i></p>
 <br/>
 
 - 🔭 I’m currently working on an android app.
