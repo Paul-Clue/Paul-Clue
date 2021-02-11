@@ -16,7 +16,7 @@ I started on this path learning HTML and CSS. I then moved on to learning JavaSc
 <br/>
 
 
-<table align="center">
+<table align="center" display="inline-block">
   <tr >
     <td><img  align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></td>
     <td align="right"><img  align="right"alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /></td>
@@ -26,7 +26,7 @@ I started on this path learning HTML and CSS. I then moved on to learning JavaSc
   </tr>
  </table>
 
-<span>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -34,7 +34,7 @@ I started on this path learning HTML and CSS. I then moved on to learning JavaSc
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Java](https://img.shields.io/badge/-Java-darkblue?style=flat-square&logo=java)
- </span>
+ 
 <hr>
 <br/>
 <p align="center"><i><strong>🟢Wondering what a cool guy like me is spending my time on these days?🟢</strong></i></p>
