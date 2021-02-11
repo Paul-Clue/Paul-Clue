@@ -23,19 +23,17 @@ I started on this path learning HTML and CSS. I then moved on to learning JavaSc
    <td><img  align="right"alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /></td>
    <td><img  align="right"alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></td>
    <td><img  align="right"alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></td>
-   <td>![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)</td>
-   <td>![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)</td>
-   <td>![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)</td>
-   <td>![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)</td>
-   <td>![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)</td>
-   <td>![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</td>
-   <td>![Java](https://img.shields.io/badge/-Java-darkblue?style=flat-square&logo=java)</td>
   </tr>
  </table>
 
 
-
-
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Java](https://img.shields.io/badge/-Java-darkblue?style=flat-square&logo=java)
 <hr>
 <br/>
 <p align="center"><i><strong>🟢Wondering what a cool guy like me is spending my time on these days?🟢</strong></i></p>
