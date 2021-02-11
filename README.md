@@ -16,7 +16,7 @@ I started on this path learning HTML and CSS. I then moved on to learning JavaSc
 <br/>
 
 
-<table align="center" style="float:left;">
+<table  style="float:left;">
   <tr >
     <td><img  align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></td>
     <td align="right"><img  align="right"alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /></td>
