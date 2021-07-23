@@ -47,8 +47,8 @@ I started on this path learning HTML and CSS. I then moved on to learning JavaSc
 <br/>
 <br/>
 
-- 🔭 I’m currently working on an android app.
-- 🌱 I’m currently learning app development.          <img align="right" alt="me" width="200px" src="./me.png" />
+
+                                                                  <img align="right" alt="me" width="200px" src="./me.png" />
 - 👯 I’m looking to collaborate on a fun gaming app.
 - 💻 I'm a student at **[Microverse](https://microverse.com)**  
 - 👨‍💻 I'm studying Ruby.
