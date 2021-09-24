@@ -51,6 +51,7 @@
 
 <!--                                                                   <img align="right" alt="me" width="200px" src="./me.png" /> -->
 - 👯 I’m looking to collaborate on a fun gaming app.
+- Check out my portfolio **[here](https://paulclueportfolio.com/)**
 - 💻 I'm a student at **[Microverse](https://microverse.com)**  
 - 🤩 I’m researching how to visualizing the world through the eyes of a gen-z-er. Accomplishing that would allow me to see into the future.🤑
 - 💬 Ask me about how to make Jamaican style oxtail.
