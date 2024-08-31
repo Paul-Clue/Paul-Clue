@@ -10,7 +10,7 @@
 
 <hr>
 <br/>
-<p align="center"><i><strong> ⚡ I am proficient in the following programming languages and technologies ⚡:</strong></i></p>
+<p align="center"><i><strong> ⚡ I'm proficient in a range of languages and technologies, such as… ⚡:</strong></i></p>
 <br/>
 <br/>
 
@@ -28,6 +28,12 @@
    </td>
    <td>
      <img align="center" alt="MaterialUI" width="50px" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
+   </td>
+   <td>
+     <img align="center" alt="Firebase" width="50px" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
+   </td>
+   <td>
+     <img align="center" alt="Prisma" width="50px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
    </td>
   </tr>
  </table>
